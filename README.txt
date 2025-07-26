@@ -1,4 +1,4 @@
-中央频道,#genre#
+央视频道,#genre#
 中央1-综合,http://60.208.44.186:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 中央2-财经,http://60.208.44.186:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3 综艺,https://feiyang.wangdu.site/decrypt_m3u.php?url=R0dZd294WnhyaVBaMmpOOWVuQnM4a2VjMVFQakE4QStKRzhXSmlrWWFCMWNrTVJkWnlwcHcrMEpieGMrL0xvcQ%3D%3D
@@ -37,24 +37,15 @@ CCTV-3 综艺,https://feiyang.wangdu.site/decrypt_m3u.php?url=R0dZd294WnhyaVBaMm
 河南卫视,http://60.208.44.186:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://60.208.44.186:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 喜爱频道,#genre#
-神乐影片2[1920x1080],http://epg.112114.xyz/douyu/85894
-特辑影院[1920x1080],http://epg.112114.xyz/douyu/3637778
-榜单电影[1920x1080],http://allinone.netsite.cc/douyu/8770422
+鳳凰衛視中文台,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3paakdnRVJQN1hPMkdRZnlwSk42YmVWR2ljNFpxTVNUZSs5WVk2Q0thaE1FcA%3D%3D
+鳳凰衛視資訊台,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3paaC9iVnJ3Z3VnL2NZMTZBNHJMdWpudkl0Ly9BZ0pvSlJQbmIwQTcvcmQyQg%3D%3D
+凤凰中文,https://feiyang.wangdu.site/decrypt_m3u.php?url=ZVZEVlR3VWxBOXNyNnFOamtBOWtqeWRvSGNmb3lQcWdaak1Dc0tPWjVPVlBIT25lekhPeSt6SzhrREdpSjNFU2JRaUdpdEhGUGswYWRrNzBVdFFIUXc9PQ%3D%3D
+有线综合,https://feiyang.wangdu.site/decrypt_m3u.php?url=Q1l3MUZCeE5YT2h1QVFYeTZZZDBNUm5CRU9aRlVhZU5xY0taSHR4bndlK1IxTkNWTXF1Y3BVYU5uQVJuaVArZQ%3D%3D
 韩国歌舞秀[1920x1080],http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf374a8f22734242cdec&token=cpn-androidmpro-0-17732-2c028a7d8b69ac4c6a43608933105351f464f9543343a70c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-邵氏电影,https://feiyang.wangdu.site/decrypt_m3u.php?url=aWVZM1pIbWJ0ckxha29JODkxOGlobXNKRzBVaFJGcXFFcDN2cGJ3dFdOa0pwNjJVVmcxd2d2dlRLMVdBY1RVcHJsb1ZGU1hIZVcyOU4xbXUwVWZMOHc9PQ%3D%3D
 搜狐视频,https://feiyang.wangdu.site/decrypt_m3u.php?url=aURrdC9rcmRKNDE1M2lrM24wWCtZaUE5a29mbktqOXdjU2lrMlBkSVE2cUttMEhEZzRZNVo2VjNCU2YyUTN3M1ZvRHRBUVJTTlZmcmp5S0xRckR3cWc9PQ%3D%3D
-Loupe 4K,https://feiyang.wangdu.site/decrypt_m3u.php?url=QjY2di9PRkpKdG9NSlZwOXJYSWRIRzBsV1c4R2EzcmJta3Z6NDhkaVNsU080eWxVOWx6RDlsbWI3SlRqK2lxZmJaU0VrMUI1V0l6TkhQZUs0S1ZJc2c9PQ%3D%3D
 Fashion 4K,https://feiyang.wangdu.site/decrypt_m3u.php?url=UWJyNER1aFM4TE5NdFg2eEN6RG9laUdIOXd5S0s2ZmJ5ZmVHdngyb3YvdllBWFNQdnJ4UElVaVA5eHRVQUdjQ215VDMyY0dEWGNaQUVOWFRaRXRpaCtKNk5YZEc3N1plOWFXaCtvclE0eDNlajVxSjVCMnlVV3BQcmtsWE5ZMXM3WkF0aUVqQW1jdGd0ODBkdDd5bnNRPT0%3D
 苏州4K,https://feiyang.wangdu.site/decrypt_m3u.php?url=Z2NHaDhQeDd3N3NkZCtPc0h5bm9iU2xNK1BGWVRTenhSdW5aMnZpK0psSEFDSE1iS0FET0dFWXhMMWxUeGhzMmovTEJ2TVJjVVEwWDNZWldDUlBQWGc9PQ%3D%3D
 苏州4K,https://feiyang.wangdu.site/decrypt_m3u.php?url=K2ZjSGMyMGhsUURoSWszQ05mb0xRSmpDYm5yaGZwTFdld09raUZDQTZqTzhHa3RXdHNSTmJQTXlZZDNLUTNsZlhzbnRySVhETWtkZXhLZEhBcjZrUFE9PQ%3D%3D
-Animax (HK),https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3padVU3Vkw1RVdoVVcxK2VUVitOTG1BMnRNd280cWE4RFE0ZUVzTDhTTTJjWg%3D%3D
-AXN,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3paaG9SaTlZL1czUnN6NnZFb3hzQ3dnUU5aS2ZIOUtSTmVPOEFaaEg5MXhoUQ%3D%3D
-Channel 5 HD,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3padENnbzZ6Zm5qQmVsRm9WalFmb0JMVk9oOThISE11M2l0NkF5aUlDUkZ1eQ%3D%3D
-Channel 8 HD,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3padENnbzZ6Zm5qQmVsRm9WalFmb0JMVVE1dFlwSHM5OGQvV0xQSnZac2dNaA%3D%3D
-Channel U HD,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3padENnbzZ6Zm5qQmVsRm9WalFmb0JMV2YvU1UxN3I4RXA1V2NYYTY2UzZiZw%3D%3D
-Love Nature HD,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3pacWhiVFlaZlBhbHc2S3VTeHRPTHg2VDBFOTZIdjV3cklHb3VKeGZ1dTRUS1FicjFnNXJsQ21zN29ONmZzZFMrb0E9PQ%3D%3D
-PopC,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3pablJ3ZFdhcTJVTTVxSExydDFUYTNpdlQ2aUc4bWFRRUoyRUQvVEIvZm1PTg%3D%3D
-ROCK Action,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3pacGRsUzF3bmhyektocHVKZmd0Y0FmV1ZFa21KZ0N6N0pyUzRGNW5LZGFZWA%3D%3D
 tvN,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3paZ2Y4bUVJaTNOZFdaaGtDeDJQWUp0emxhNzJ5Q3RkS1JqaEJnZU5ZZi9nVQ%3D%3D
 天映經典(1080),https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3padnY0ZlVyWHBIbVMrbTRVWTZjNWpBcDdncUpiUlhLYWVDd3czS0RoQ0ZJYg%3D%3D
 明珠剧集台(北美),https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3paclA3WW5UZEFLK1o4ZkFEZUVpb0FaUEl2SldIT29IQlE3U1dGemtiU2gvVw%3D%3D
@@ -62,8 +53,6 @@ tvN,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3pa
 美亞電影台(HK),https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3pacU1FZVZnaEFON1FSWFJyNUp5T3VReHpCb3U4bWNXcVpRTXN6VHVrb2ZqNw%3D%3D
 翡翠剧集台(北美),https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3pac1h2U0dEb3hHZVJxZUtFS0ZialpBYk9HcHFRK1FSdm1WRUNCUjZYUFNRNg%3D%3D
 翡翠娛樂台(北美),https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3paaVNiaGVNT25Qc2xscU5NRE0vTDk4MFBxMTZIVTR3eWlSaDFLeXl2cnBiaw%3D%3D
-鳳凰衛視中文台,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3paakdnRVJQN1hPMkdRZnlwSk42YmVWR2ljNFpxTVNUZSs5WVk2Q0thaE1FcA%3D%3D
-鳳凰衛視資訊台,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3paaC9iVnJ3Z3VnL2NZMTZBNHJMdWpudkl0Ly9BZ0pvSlJQbmIwQTcvcmQyQg%3D%3D
 Sky Sports F1,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3paamkrQitkVXJBNGovZHBCZ2FTOUdlRHMzY09KWis5OWY4U3FtNjd4bllPMXQrQzBadXE0YmlOY0k2MHU1RXZrWFE9PQ%3D%3D
 天映电影,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3padFBmcExEOWFlQ0NFeUlvTHFYUnN3cW9Qenh6NzdKck5XMnJLVFRqSXBHeA%3D%3D
 好萊塢電影台,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3packF6OGthWTJuaVAvcFNGTUdOTWcvY3RXTTJFOGVVV1ZNU3BYNzFNUGFoWQ%3D%3D
@@ -162,8 +151,6 @@ DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
 生命电视,https://feiyang.wangdu.site/decrypt_m3u.php?url=dG9GTjkrWUt1OFNGanJDeXlXbEY2eGE0bFNzNTdIa0JERHBMSG4xcW4vZm1lYzh2T0hnV3FhR1MyVEgydjJKUUZ5bzRISXBoWUtVNW0wUG1IdG5nUFE9PQ%3D%3D
 RTHK 33,https://feiyang.wangdu.site/decrypt_m3u.php?url=dGcybHRmQW9wV3dPK3BmT3VDVWlxaWp5bVZtZGJQVVd5alA5OTdQQ0pGREFRMUtWWExJM3RUTlRuM0NKZmZrYm1SaSs1TE5aSlgxT0RSL1NZSXdYN1d4SGQxdXBuK084dUVIRXg2ei91NXJJcXp0ZjVpSnNsc2NWSmhDV25Qakw%3D
 RTHK 34,https://feiyang.wangdu.site/decrypt_m3u.php?url=M3ZBL051Y2hPUmNCVjd0azdNZkRqTjg3U1dtaHhTREVGYjYrZlAyKzBEVTlZWE8wUGNnWER4RS9ybXJWc0ZzVWhjdHpXRU1lSXk2UmlUNkVNRm1pSXhBM0tpdHFWaVRTU0krUlJEbTNsZ1lJczNQQndhVlkyd05WSTFoTExnT1Q%3D
-凤凰中文,https://feiyang.wangdu.site/decrypt_m3u.php?url=ZVZEVlR3VWxBOXNyNnFOamtBOWtqeWRvSGNmb3lQcWdaak1Dc0tPWjVPVlBIT25lekhPeSt6SzhrREdpSjNFU2JRaUdpdEhGUGswYWRrNzBVdFFIUXc9PQ%3D%3D
-有线综合,https://feiyang.wangdu.site/decrypt_m3u.php?url=Q1l3MUZCeE5YT2h1QVFYeTZZZDBNUm5CRU9aRlVhZU5xY0taSHR4bndlK1IxTkNWTXF1Y3BVYU5uQVJuaVArZQ%3D%3D
 无线翡翠4k,https://feiyang.wangdu.site/decrypt_m3u.php?url=Q1l3MUZCeE5YT2h1QVFYeTZZZDBNZmQ1RWQ3M3BXVHRRREZUNXVaQ1JQZlJWY2JEZjFuL0QzRWRENGlZa3MxZg%3D%3D
 无线明珠,https://feiyang.wangdu.site/decrypt_m3u.php?url=MG5EdWtpWXVvWkozQ3dZcmYwSEtGeVpWcVdadEZnOVFDYlBUMjFqOVNRTUUybFNVN0ZwcDF3Znl1bWdXSVBabg%3D%3D
 RTHK-31,https://feiyang.wangdu.site/decrypt_m3u.php?url=MG5EdWtpWXVvWkozQ3dZcmYwSEtGK2pSK25HR3hIM1dKanlxNXgveG92ZXFpajFUZ2lZVVhyaUpsaTZFbWxEYw%3D%3D
@@ -630,4 +617,12 @@ BYD蹦野迪,https://txmov2.a.kwimgs.com/upic/2022/05/20/06/BMjAyMjA1MjAwNjEwNDJ
 广场舞枕着她的光,https://vd3.bdstatic.com/mda-qepm64kv8rerp9k6/1080p/cae_h264/1716563423827273472/mda-qepm64kv8rerp9k6.mp4
 广场舞为你祈祷,https://vd4.bdstatic.com/mda-qetz74yje64thces/1080p/cae_h264/1716989417368224404/mda-qetz74yje64thces.mp4
 广场舞爱我为何还要放开手,https://vd3.bdstatic.com/mda-qeszey5habzqw11y/1080p/cae_h264/1716853525713219254/mda-qeszey5habzqw11y.mp4
+••教育_88,#genre#
+BCU Charm HD2[1280x720],http://rhsbjv7k.tvclub.xyz/iptv/GCETXETVEM37A6/18053/index.m3u8
+BCU Charm HD1[1920x1080],http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/18053/index.m3u8
+BCU Charm HD[1280x720],http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18053/index.m3u8
+TV8 [18+],http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+直播teen[1280x720],http://live.mycamtv.com/teen.m3u8
+直播anal[1280x720],http://live.mycamtv.com/anal.m3u8
+直播arab[1280x720],http://live.mycamtv.com/arab.m3u8
 
