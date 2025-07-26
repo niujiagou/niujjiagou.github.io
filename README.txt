@@ -39,6 +39,7 @@ CCTV-3 综艺,https://feiyang.wangdu.site/decrypt_m3u.php?url=R0dZd294WnhyaVBaMm
 喜爱频道,#genre#
 鳳凰衛視中文台,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3paakdnRVJQN1hPMkdRZnlwSk42YmVWR2ljNFpxTVNUZSs5WVk2Q0thaE1FcA%3D%3D
 鳳凰衛視資訊台,https://feiyang.wangdu.site/decrypt_m3u.php?url=N2Z0bVdnRytCbE1kN1BqbGEvd3paaC9iVnJ3Z3VnL2NZMTZBNHJMdWpudkl0Ly9BZ0pvSlJQbmIwQTcvcmQyQg%3D%3D
+凤凰咨讯,https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E9%AB%98%E6%B8%85&t=1752825547&token=048cea0107d05a6f64df4884b5476dd4
 凤凰中文,https://feiyang.wangdu.site/decrypt_m3u.php?url=ZVZEVlR3VWxBOXNyNnFOamtBOWtqeWRvSGNmb3lQcWdaak1Dc0tPWjVPVlBIT25lekhPeSt6SzhrREdpSjNFU2JRaUdpdEhGUGswYWRrNzBVdFFIUXc9PQ%3D%3D
 有线综合,https://feiyang.wangdu.site/decrypt_m3u.php?url=Q1l3MUZCeE5YT2h1QVFYeTZZZDBNUm5CRU9aRlVhZU5xY0taSHR4bndlK1IxTkNWTXF1Y3BVYU5uQVJuaVArZQ%3D%3D
 韩国歌舞秀[1920x1080],http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf374a8f22734242cdec&token=cpn-androidmpro-0-17732-2c028a7d8b69ac4c6a43608933105351f464f9543343a70c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
@@ -612,12 +613,4 @@ BYD蹦野迪,https://txmov2.a.kwimgs.com/upic/2022/05/20/06/BMjAyMjA1MjAwNjEwNDJ
 广场舞枕着她的光,https://vd3.bdstatic.com/mda-qepm64kv8rerp9k6/1080p/cae_h264/1716563423827273472/mda-qepm64kv8rerp9k6.mp4
 广场舞为你祈祷,https://vd4.bdstatic.com/mda-qetz74yje64thces/1080p/cae_h264/1716989417368224404/mda-qetz74yje64thces.mp4
 广场舞爱我为何还要放开手,https://vd3.bdstatic.com/mda-qeszey5habzqw11y/1080p/cae_h264/1716853525713219254/mda-qeszey5habzqw11y.mp4
-••教育_88,#genre#
-BCU Charm HD2[1280x720],http://rhsbjv7k.tvclub.xyz/iptv/GCETXETVEM37A6/18053/index.m3u8
-BCU Charm HD1[1920x1080],http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/18053/index.m3u8
-BCU Charm HD[1280x720],http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18053/index.m3u8
-TV8 [18+],http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-直播teen[1280x720],http://live.mycamtv.com/teen.m3u8
-直播anal[1280x720],http://live.mycamtv.com/anal.m3u8
-直播arab[1280x720],http://live.mycamtv.com/arab.m3u8
 
