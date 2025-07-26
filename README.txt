@@ -1,4 +1,4 @@
-其它,#genre#
+中央频道,#genre#
 中央1-综合,http://60.208.44.186:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 中央2-财经,http://60.208.44.186:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3 综艺,https://feiyang.wangdu.site/decrypt_m3u.php?url=R0dZd294WnhyaVBaMmpOOWVuQnM4a2VjMVFQakE4QStKRzhXSmlrWWFCMWNrTVJkWnlwcHcrMEpieGMrL0xvcQ%3D%3D
@@ -630,11 +630,4 @@ BYD蹦野迪,https://txmov2.a.kwimgs.com/upic/2022/05/20/06/BMjAyMjA1MjAwNjEwNDJ
 广场舞枕着她的光,https://vd3.bdstatic.com/mda-qepm64kv8rerp9k6/1080p/cae_h264/1716563423827273472/mda-qepm64kv8rerp9k6.mp4
 广场舞为你祈祷,https://vd4.bdstatic.com/mda-qetz74yje64thces/1080p/cae_h264/1716989417368224404/mda-qetz74yje64thces.mp4
 广场舞爱我为何还要放开手,https://vd3.bdstatic.com/mda-qeszey5habzqw11y/1080p/cae_h264/1716853525713219254/mda-qeszey5habzqw11y.mp4
-••教育_88,#genre#
-BCU Charm HD2[1280x720],http://rhsbjv7k.tvclub.xyz/iptv/GCETXETVEM37A6/18053/index.m3u8
-BCU Charm HD1[1920x1080],http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/18053/index.m3u8
-BCU Charm HD[1280x720],http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18053/index.m3u8
-TV8 [18+],http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-直播teen[1280x720],http://live.mycamtv.com/teen.m3u8
-直播anal[1280x720],http://live.mycamtv.com/anal.m3u8
-直播arab[1280x720],http://live.mycamtv.com/arab.m3u8
+
