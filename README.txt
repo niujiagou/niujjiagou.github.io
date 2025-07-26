@@ -613,4 +613,48 @@ BYD蹦野迪,https://txmov2.a.kwimgs.com/upic/2022/05/20/06/BMjAyMjA1MjAwNjEwNDJ
 广场舞枕着她的光,https://vd3.bdstatic.com/mda-qepm64kv8rerp9k6/1080p/cae_h264/1716563423827273472/mda-qepm64kv8rerp9k6.mp4
 广场舞为你祈祷,https://vd4.bdstatic.com/mda-qetz74yje64thces/1080p/cae_h264/1716989417368224404/mda-qetz74yje64thces.mp4
 广场舞爱我为何还要放开手,https://vd3.bdstatic.com/mda-qeszey5habzqw11y/1080p/cae_h264/1716853525713219254/mda-qeszey5habzqw11y.mp4
-
+••教育_88,#genre#
+BCU Charm HD2[1280x720],http://rhsbjv7k.tvclub.xyz/iptv/GCETXETVEM37A6/18053/index.m3u8
+BCU Charm HD1[1920x1080],http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/18053/index.m3u8
+BCU Charm HD[1280x720],http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18053/index.m3u8
+TV8 [18+],http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+直播teen[1280x720],http://live.mycamtv.com/teen.m3u8
+直播anal[1280x720],http://live.mycamtv.com/anal.m3u8
+直播arab[1280x720],http://live.mycamtv.com/arab.m3u8
+TV Online,https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+PlayboyX Tv,http://live.redtraffic.xyz/latina.m3u8
+HOT,http://live.redtraffic.xyz/blowjob.m3u8
+Dusk,http://live.redtraffic.xyz/milf.m3u8
+Juice,http://live.redtraffic.xyz/bigass.m3u8
+SEXTATION,http://live.redtraffic.xyz/teen.m3u8
+You Porn,http://live.redtraffic.xyz/pov.m3u8
+PenthouseX,http://live.redtraffic.xyz/pornstar.m3u8
+Sextreme,http://live.redtraffic.xyz/fetish.m3u8
+BRAZZERS,http://live.redtraffic.xyz/bigtits.m3u8
+PrivateX,http://live.redtraffic.xyz/cuckold.m3u8
+RedlightX,http://live.redtraffic.xyz/russian.m3u8
+VENUS,http://live.redtraffic.xyz/interracial.m3u8
+Russian  | US,http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
+Pornstar  | US,http://cdn.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
+MILF  | US,http://cdn.adultiptv.net/milf.m3u8?PlaylistM3UCL
+Hardcore  | US,http://cdn.adultiptv.net/hardcore.m3u8?PlaylistM3UCL
+Fetish  | US,http://cdn.adultiptv.net/fetish.m3u8?PlaylistM3UCL
+Compilation  | US,http://cdn.adultiptv.net/compilation.m3u8?PlaylistM3UCL
+Big Tits  | US,http://cdn.adultiptv.net/bigtits.m3u8?PlaylistM3UCL
+Big Dick  | US,http://cdn.adultiptv.net/bigdick.m3u8?PlaylistM3UCL
+Big Ass  | US,http://cdn.adultiptv.net/bigass.m3u8?PlaylistM3UCL
+Anal  | US,http://cdn.adultiptv.net/anal.m3u8?PlaylistM3UCL
+Teen  | US,http://cdn.adultiptv.net/teen.m3u8?PlaylistM3UCL
+Latina  | US,http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
+Blonde  | US,http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
+Brunette  | US,http://cdn.adultiptv.net/brunette.m3u8?PlaylistM3UCL
+Interracial  | US,http://cdn.adultiptv.net/interracial.m3u8?PlaylistM3UCL
+POV  | US,http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL
+Blowjob  | US,http://cdn.adultiptv.net/blowjob.m3u8?PlaylistM3UCL
+Threesome  | US,http://cdn.adultiptv.net/threesome.m3u8?PlaylistM3UCL
+Rough  | US,http://cdn.adultiptv.net/rough.m3u8?PlaylistM3UCL
+Gangbang  | US,http://cdn.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
+Live Cams  | US,http://cdn.adultiptv.net/livecams.m3u8?PlaylistM3UCL
+Cuckold  | US,http://cdn.adultiptv.net/cuckold.m3u8?PlaylistM3UCL
+Lesbian  | US,http://cdn.adultiptv.net/lesbian.m3u8?PlaylistM3UCL
+Gay  | US,http://cdn.adultiptv.net/gay.m3u8?PlaylistM3UCL
