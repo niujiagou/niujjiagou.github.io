@@ -39,6 +39,9 @@ CCTV-3 综艺,https://feiyang.wangdu.site/decrypt_m3u.php?url=R0dZd294WnhyaVBaMm
 香港频道,#genre#
 凤凰中文,https://live.catvod.com/iptv.php?id=ly4kzfbq
 凤凰资讯,https://live.catvod.com/iptv.php?id=oqp6bt50
+日本锻炼舞蹈,http://haruka-ip.f5.si:9394/stream/140.m3u8
+日本男团歌舞,http://haruka-ip.f5.si:9394/stream/144.m3u8
+日本艺术现场,http://haruka-ip.f5.si:9394/stream/142.m3u8
 凤凰香港,https://live.catvod.com/iptv.php?id=lxrxnyth
 明珠台,https://live.catvod.com/iptv.php?id=gfnvny0b
 TVB Plus,https://live.catvod.com/iptv.php?id=0iwhnrjg
@@ -385,8 +388,8 @@ TVBS(科学),https://epg.pw/stream/06baf79b6e6515fa271791223499a2ecf53f1917f24c6
 广场舞为你祈祷,https://vd4.bdstatic.com/mda-qetz74yje64thces/1080p/cae_h264/1716989417368224404/mda-qetz74yje64thces.mp4
 广场舞爱我为何还要放开手,https://vd3.bdstatic.com/mda-qeszey5habzqw11y/1080p/cae_h264/1716853525713219254/mda-qeszey5habzqw11y.mp4
 ••教育_88,#genre#
-驚艷台,
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts 
+日本艺术,http://haruka-ip.f5.si:9394/stream/234.m3u8
+驚艷台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts 
 潘多拉粉红,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts 
 彩虹,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts 
 松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts 
