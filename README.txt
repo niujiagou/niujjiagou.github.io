@@ -385,7 +385,49 @@ TVBS(科学),https://epg.pw/stream/06baf79b6e6515fa271791223499a2ecf53f1917f24c6
 广场舞为你祈祷,https://vd4.bdstatic.com/mda-qetz74yje64thces/1080p/cae_h264/1716989417368224404/mda-qetz74yje64thces.mp4
 广场舞爱我为何还要放开手,https://vd3.bdstatic.com/mda-qeszey5habzqw11y/1080p/cae_h264/1716853525713219254/mda-qeszey5habzqw11y.mp4
 ••教育_88,#genre#
+驚艷台,
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts 
+潘多拉粉红,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts 
+彩虹,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts 
+松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts 
+松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts 
+松视3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts 
+playbox,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 BCU Charm HD2[1280x720],http://rhsbjv7k.tvclub.xyz/iptv/GCETXETVEM37A6/18053/index.m3u8
 BCU Charm HD1[1920x1080],http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/18053/index.m3u8
 BCU Charm HD[1280x720],http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18053/index.m3u8
 TV8 [18+],http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+Sextreme,http://dns.clientetv.net:8080/Paulo98/Pr991930432/2298
+Brazzers 3,http://dns.clientetv.net:8080/Paulo98/Pr991930432/76623
+Brasileirinhas 4K,http://dns.clientetv.net:8080/Paulo98/Pr991930432/11442
+Brasileirinhas,http://dns.clientetv.net:8080/Paulo98/Pr991930432/86578
+Lésbicas,http://dns.clientetv.net:8080/Paulo98/Pr991930432/62084
+TransTV HD,http://dns.clientetv.net:8080/Paulo98/Pr991930432/46729
+TransTV 2,http://dns.clientetv.net:8080/Paulo98/Pr991930432/944190
+Interracial Black,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916031
+Red XXX,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916030
+Hustler HD (D),http://dns.clientetv.net:8080/Paulo98/Pr991930432/916128
+Redlight  (P),http://dns.clientetv.net:8080/Paulo98/Pr991930432/916087
+Penthouse 2 (D),http://dns.clientetv.net:8080/Paulo98/Pr991930432/916146
+MILF,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916010
+Blacked HD,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916133
+Brazzers TV  (P),http://dns.clientetv.net:8080/Paulo98/Pr991930432/916121
+Threesome,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916004
+Lesbian Brasil,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916012
+Latina,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916013
+Big Tits,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916024
+Asian,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916027
+Anal,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916028
+Interracial HD,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916038
+Publick Agent (P),http://dns.clientetv.net:8080/Paulo98/Pr991930432/916047
+Mom XXX,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916052
+Private,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916054
+BlackOn Blondes HD,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916060
+Pornbox,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916074
+oung Sex Adults (P),http://dns.clientetv.net:8080/Paulo98/Pr991930432/916082
+Digital Playground,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916086
+PlayBoy  (P),http://dns.clientetv.net:8080/Paulo98/Pr991930432/916090
+Dorcel XXX,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916102
+CentoxCento,http://dns.clientetv.net:8080/Paulo98/Pr991930432/916115
+Dorcel TV (P),http://dns.clientetv.net:8080/Paulo98/Pr991930432/916127
+Private TV  (D),http://dns.clientetv.net:8080/Paulo98/Pr991930432/916131
