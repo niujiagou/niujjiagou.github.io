@@ -1,3 +1,36 @@
+
+跳至内容
+导航菜单
+牛家沟
+niujiagou.github.io
+
+输入/搜索内容
+代码
+问题
+拉取请求
+行动
+项目
+维基百科
+安全
+洞察
+设置
+niujiagou.github.io
+/wode.txt
+转到文件
+t
+niujiagou
+niujiagou
+Modify channel URLs in wode.txt
+14ee069
+ · 
+现在
+niujiagou.github.io
+/wode.txt
+
+代码
+
+责备
+534 行（526 个位置）· 34.5 KB
 📺央视频道,#genre#
 CCTV1 HD,http://144.255.44.101:7788/rtp/239.21.1.120:5002
 CCTV2 HD,http://144.255.44.101:7788/rtp/239.21.1.151:5002
@@ -75,33 +108,33 @@ IPTV相声小品,http://144.255.44.101:7788/rtp/239.21.1.126:5002
 光影,http://144.255.44.101:7788/rtp/239.21.1.131:5002
 车迷,http://144.255.44.101:7788/rtp/239.21.2.39:5002
 
-🪁省内频道,#genre#
-山东齐鲁,http://144.255.44.101:7788/rtp/239.21.1.53:5002
-山东齐鲁,http://144.255.44.101:7788/rtp/239.21.1.134:5002
-山东生活,http://144.255.44.101:7788/rtp/239.21.1.56:5002
-山东生活,http://144.255.44.101:7788/rtp/239.21.1.175:5002
-山东综艺,http://144.255.44.101:7788/rtp/239.21.1.55:5002
-山东综艺,http://144.255.44.101:7788/rtp/239.21.1.177:5002
-济南都市,http://144.255.44.101:7788/rtp/239.21.1.63:5002
-济南鲁中,http://144.255.44.101:7788/rtp/239.21.1.149:5002
-济南商务,http://144.255.44.101:7788/rtp/239.21.1.67:5002
-济南生活,http://144.255.44.101:7788/rtp/239.21.1.64:5002
-济南新闻,http://144.255.44.101:7788/rtp/239.21.1.62:5002
-济南新闻,http://144.255.44.101:7788/rtp/239.21.1.94:5002
-济南影视,http://144.255.44.101:7788/rtp/239.21.1.65:5002
-济南娱乐,http://144.255.44.101:7788/rtp/239.21.1.66:5002
-济南教育,http://144.255.44.101:7788/rtp/239.21.1.133:5002
-济南科教,http://144.255.44.101:7788/rtp/239.21.1.150:5002
-济南少儿,http://144.255.44.101:7788/rtp/239.21.1.68:5002
-山东少儿,http://144.255.44.101:7788/rtp/239.21.1.60:5002
-山东少儿,http://144.255.44.101:7788/rtp/239.21.1.208:5002
-山东体育,http://144.255.44.101:7788/rtp/239.21.1.58:5002
-山东体育,http://144.255.44.101:7788/rtp/239.21.1.141:5002
-山东国际,http://144.255.44.101:7788/rtp/239.21.1.61:5002
-山东教育,http://144.255.44.101:7788/rtp/239.21.1.101:5002
-山东教育,http://144.255.44.101:7788/rtp/239.21.1.169:5002
-山东农科,http://144.255.44.101:7788/rtp/239.21.1.59:5002
-山东农科,http://144.255.44.101:7788/rtp/239.21.1.183:5002
+🪁省内频道,#genre#山东齐鲁,http://113.128.152.184:4022/rtp/239.21.1.53:5002
+山东齐鲁,http://113.128.152.184:4022/rtp/239.21.1.134:5002
+山东少儿,http://113.128.152.184:4022/rtp/239.21.1.60:5002
+山东少儿,http://113.128.152.184:4022/rtp/239.21.1.208:5002
+山东生活,http://113.128.152.184:4022/rtp/239.21.1.56:5002
+山东生活,http://113.128.152.184:4022/rtp/239.21.1.175:5002
+济南都市,http://113.128.152.184:4022/rtp/239.21.1.63:5002
+济南教育,http://113.128.152.184:4022/rtp/239.21.1.133:5002
+济南科教,http://113.128.152.184:4022/rtp/239.21.1.150:5002
+济南鲁中,http://113.128.152.184:4022/rtp/239.21.1.149:5002
+济南商务,http://113.128.152.184:4022/rtp/239.21.1.67:5002
+济南少儿,http://113.128.152.184:4022/rtp/239.21.1.68:5002
+济南生活,http://113.128.152.184:4022/rtp/239.21.1.64:5002
+济南新闻,http://113.128.152.184:4022/rtp/239.21.1.62:5002
+济南新闻,http://113.128.152.184:4022/rtp/239.21.1.94:5002
+济南影视,http://113.128.152.184:4022/rtp/239.21.1.65:5002
+济南娱乐,http://113.128.152.184:4022/rtp/239.21.1.66:5002
+山东体育,http://113.128.152.184:4022/rtp/239.21.1.58:5002
+山东体育,http://113.128.152.184:4022/rtp/239.21.1.141:5002
+山东卫视,http://113.128.152.184:4022/rtp/239.21.1.52:5002
+山东卫视,http://113.128.152.184:4022/rtp/239.21.1.87:5002
+山东文旅,http://113.128.152.184:4022/rtp/239.21.1.57:5002
+山东文旅,http://113.128.152.184:4022/rtp/239.21.1.176:5002
+山东新闻,http://113.128.152.184:4022/rtp/239.21.1.54:5002
+山东新闻,http://113.128.152.184:4022/rtp/239.21.1.140:5002
+山东综艺,http://113.128.152.184:4022/rtp/239.21.1.55:5002
+山东综艺,http://113.128.152.184:4022/rtp/239.21.1.177:5002
 日照莒县TV-1,http://144.255.44.101:7788/rtp/239.21.1.236:5002
 山东居家购物,http://144.255.44.101:7788/rtp/239.21.1.112:5002
 
@@ -208,9 +241,8 @@ CH8,https://mgev.188766.xyz/?migutoken=89079e1852ac9847a16c2b36f094676a&id=hk_ch
 HOY77,https://mgev.188766.xyz/?migutoken=5db5928f16fd0822e5f5e82e137914df&id=hk_hoy&type=dy
 
 🎬韩国频道,#genre#
-日本锻炼舞蹈http://haruka-ip.f5.si:9394/stream/140.m3u8
-日本歌曲现场http://haruka-ip.f5.si:9394/stream/142.m3u8
-日本艺术http://haruka-ip.f5.si:9394/stream/234.m3u8
+日本锻炼舞蹈,http://haruka-ip.f5.si:9394/stream/140.m3u8
+日本歌曲现场,http://haruka-ip.f5.si:9394/stream/142.m3u8
 KBS1,http://211.117.153.164:4022/rtp/239.192.67.100:49220
 KBSN 스포츠,http://211.117.153.164:4022/rtp/239.192.67.132:49220
 NS홈쇼핑,http://211.117.153.164:4022/rtp/239.192.52.10:49220
@@ -428,3 +460,109 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
 猫和老鼠,https://live.iill.top/huya/11352879
+
+••教育_88,#genre#
+日本艺术,http://haruka-ip.f5.si:9394/stream/234.m3u8
+Miami TV[1280x720],https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+Playboy HD[1920x1080],http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+Playboy HD[1920x1080],http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8香蕉台[1920x1080],https://cf005.paopao.video:443/A1B1E799A45B0C396A6ABCE8F41D7130B91BAFAB 
+Playboy HD[1920x1080],http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+花花公子[1920x1080],http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/6242/index.m3u8
+BCU Charm HD3[1280x720],http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/18053/index.m3u8
+BCU Charm HD2[1280x720],http://rhsbjv7k.tvclub.xyz/iptv/GCETXETVEM37A6/18053/index.m3u8
+BCU Charm HD1[1920x1080],http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/18053/index.m3u8
+BCU Charm HD[1280x720],http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18053/index.m3u8
+TV8 [18+],http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+Miami好 TV[640x360],https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+直播teen[1280x720],http://live.mycamtv.com/teen.m3u8
+直播anal[1280x720],http://live.mycamtv.com/anal.m3u8
+直播arab[1280x720],http://live.mycamtv.com/arab.m3u8
+潘多拉完美,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
+精艳台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+香蕉台,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+松1台,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+松2台,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+松3台,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+🈲驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
+🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
+👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
+🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
+💖Mainu臺,http://125.227.210.55:51359/VideoInput/play.ts
+💖Sex ❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
+••教育_99,#genre#
+舒淇早期激青合集[1082x618],https://v6.jindangao.com/hj/hj2/hj25/36/hls/index.m3u8
+燕鬼冤魂[1081x610],https://v6.jindangao.com/hj/hj2/hj27/34/hls/index.m3u8
+夜半思孚時[1179x884],https://v6.jindangao.com/hj/hj2/hj28/1/hls/index.m3u8
+越軌之狼完整版[1080x600],https://v6.jindangao.com/hj/hj2/hj29/12/hls/index.m3u8
+外文初夜青[1080x810],https://v6.jindangao.com/hj/hj1/hj3/22/hls/index.m3u8
+我為卿狂[1080x608],https://v5.jindangao.com/fff/ff7/21/hls/index.m3u8
+水滸傳之英雄好攝[1080x608],https://v5.jindangao.com/gg/g9/23/hls/index.m3u8
+玉火狂蜜[1080x598],https://v6.jindangao.com/hj/hj2/hj28/44/hls/index.m3u8
+滿清十大酷刑[1080x608],https://v5.jindangao.com/jj/j1/46/hls/index.m3u8
+劍奴[1080x658],https://v5.jindangao.com/ff/f4/4/hls/index.m3u8
+婚前試愛[1280x720],https://v5.jindangao.com/ff/f2/7/hls/index.m3u8
+我來自北京[1080x642],https://v5.jindangao.com/fff/ff7/8/hls/index.m3u8
+竹本玉蒲團[1080x750],https://v5.jindangao.com/fff/ff0/38/hls/index.m3u8
+人肉叉燒包[720x446],https://v6.jindangao.com/v26/26/600kb/hls/index.m3u8
+生氣功之探秘[1232x720],https://v5.jindangao.com/hh/h2/17/hls/index.m3u8
+青樓十二戶國粵雙語[1080x608],https://v5.jindangao.com/nn/n9/51/hls/index.m3u8
+與蛇共舞[1080x608],https://v5.jindangao.com/hh/h6/27/hls/index.m3u8
+聊齋花弄月[1080x621],https://v5.jindangao.com/eee/ee10/14/hls/index.m3u8
+風月奇譚[1080x460],https://v5.jindangao.com/ll/l5/38/hls/index.m3u8
+唐朝禁宮風月[1080x810],https://v5.jindangao.com/gg/g10/26/hls/index.m3u8
+攝玉怪談之魔姦贏者[1080x810],https://v5.jindangao.com/gg/g5/21/hls/index.m3u8
+贏魔暴行[1080x584],https://v5.jindangao.com/oo/o10/18/hls/index.m3u8
+櫻花劫[1080x826],https://v5.jindangao.com/hh/h7/24/hls/index.m3u8
+茅山鬥降頭[1080x583],https://v5.jindangao.com/ff/f10/31/hls/index.m3u8
+生的厲鬼[1080x810],https://v5.jindangao.com/eee/ee1/23/hls/index.m3u8
+降頭2007[1312x728],https://v5.jindangao.com/ff/f4/8/hls/index.m3u8
+五行鬼屍[1080x810],https://v5.jindangao.com/oo/o8/19/hls/index.m3u8
+香帥傳奇之天一神油[1080x720],https://v5.jindangao.com/kk/k1/28/hls/index.m3u8
+愉青寶鑑生愛三十六戶[1080x540],https://v5.jindangao.com/fff/ff0/32/hls/index.m3u8
+浮世風青繪[1105x584],https://v5.jindangao.com/xx/x2/22/hls/index.m3u8
+武松1982[1308x528],https://v5.jindangao.com/ee/e1/12/hls/index.m3u8
+邪鬥邪[1080x810],https://v5.jindangao.com/oo/o8/46/hls/index.m3u8
+催花神龍教[1084x634],https://v5.jindangao.com/ll/l1/38/hls/index.m3u8
+攝咒邪靈燕降勾魂[1080x810],https://v5.jindangao.com/oo/o7/1/hls/index.m3u8
+被犧牲的妻子[640x362],https://8xi78.xyz/assets/10199a8bfd134675b8456e92fcbe9b27.mp4
+獸性陷阱[1080x714],https://v6.jindangao.com/hj/hj2/hj23/24/hls/index.m3u8
+狼吻十四日[1082x446],https://v6.jindangao.com/hj/hj1/hj8/5/hls/index.m3u8
+迷情司機[1080x810],https://v6.jindangao.com/hj/hj1/hj9/19/hls/index.m3u8
+色魔玩處女[1440x810],https://v6.jindangao.com/hj/hj2/hj22/33/hls/index.m3u8
+滅門慘案之虐殺[720x405],https://v5.jindangao.com/yy/y1/18/hls/index.m3u8
+三姦[640x480],https://v5.jindangao.com/gg/g4/33/hls/index.m3u8
+驚變[1920x1080],https://v5.jindangao.com/ff/f6/7/hls/index.m3u8
+蜈蚣咒[722x406],https://v6.jindangao.com/bb/b16/30/500kb/hls/index.m3u8
+香港屠夫[720x446],https://v6.jindangao.com/dd/d2/39/500kb/hls/index.m3u8
+屯門色魔[720x490],https://v6.jindangao.com/aa/a8/25/600kb/hls/index.m3u8
+魔鬼天使徐若瑄[720x417],https://v6.jindangao.com/aa/a8/13/600kb/hls/index.m3u8
+極度牆間[720x480],https://v6.jindangao.com/aa/a7/18/600kb/hls/index.m3u8
+戴錯貞操帶[720x526],https://v6.jindangao.com/aa/a17/16/500kb/hls/index.m3u8
+強間3之oL誘惑[720x400],https://v6.jindangao.com/aa/a14/22/600kb/hls/index.m3u8
+赤裸毒藥[720x402],https://v6.jindangao.com/dd/d10/13/500kb/hls/index.m3u8
+強間4終極篇最後羔羊[722x406],https://v6.jindangao.com/aa/a23/31/500kb/hls/index.m3u8
+香港奇案之四廟街皇后[720x306],https://v6.jindangao.com/dd/d3/33/500kb/hls/index.m3u8
+山狗2003獸性陷阱[720x540],https://v6.jindangao.com/dd/d1/28/500kb/hls/index.m3u8
+香港奇案之兇殺[1127x480],https://v6.jindangao.com/dd/d3/31/500kb/hls/index.m3u8
+香港奇案之老爺車縱火謀殺案[720x538],https://v6.jindangao.com/dd/d3/32/500kb/hls/index.m3u8
+色欲檔案之性[720x368],https://v6.jindangao.com/dd/d1/27/500kb/hls/index.m3u8
+新羔羊醫生[720x400],https://v6.jindangao.com/dd/d3/38/500kb/hls/index.m3u8
+盲女72小時[720x540],https://v6.jindangao.com/dd/d3/40/500kb/hls/index.m3u8
+滿床春水[787x590],https://v6.jindangao.com/aa/a21/18/500kb/hls/index.m3u8
+西環浮屍[720x396],https://v6.jindangao.com/dd/d1/42/500kb/hls/index.m3u8
+妖怪都市[720x408],https://v6.jindangao.com/dd/d6/19/500kb/hls/index.m3u8
+香港奇案之吸血貴利王[720x408],https://v6.jindangao.com/v14/18/600kb/hls/index.m3u8
+人肉天婦羅[720x400],https://v6.jindangao.com/dd/d19/40/700kb/hls/index.m3u8
+誘人犯罪[720x402],https://v6.jindangao.com/bb/b1/27/500kb/hls/index.m3u8
+監獄不設防[720x480],https://v6.jindangao.com/dd/d7/42/500kb/hls/index.m3u8
+鬼話成真[720x542],https://v6.jindangao.com/dd/d7/22/500kb/hls/index.m3u8
+黑獄聖女[720x548],https://v6.jindangao.com/bb/b14/9/500kb/hls/index.m3u8
+猛鬼舞廳[720x378],https://v6.jindangao.com/dd/d7/56/500kb/hls/index.m3u8
+猛鬼出籠②艷鬼發狂[720x392],https://v6.jindangao.com/dd/d7/55/500kb/hls/index.m3u8
+蒸夫[720x630],https://v6.jindangao.com/v13/4/600kb/hls/index.m3u8
+隱形淫魔[720x490],https://v6.jindangao.com/bb/b15/38/500kb/hls/index.m3u8
+人間蒸發[720x480],https://v5.jindangao.com/gg/g3/33/hls/index.m3u8
+殺人工廠[640x360],https://v5.jindangao.com/gg/g6/34/hls/index.m3u8
+人肉玩具[698x352],https://v5.jindangao.com/gg/g3/36/hls/index.m3u8
+銀魔暴行[1080x584],https://v5.jindangao.com/oo/o10/18/hls/index.m3u8
+ 
