@@ -1,36 +1,3 @@
-
-跳至内容
-导航菜单
-牛家沟
-niujiagou.github.io
-
-输入/搜索内容
-代码
-问题
-拉取请求
-行动
-项目
-维基百科
-安全
-洞察
-设置
-niujiagou.github.io
-/wode.txt
-转到文件
-t
-niujiagou
-niujiagou
-Modify channel URLs in wode.txt
-14ee069
- · 
-现在
-niujiagou.github.io
-/wode.txt
-
-代码
-
-责备
-534 行（526 个位置）· 34.5 KB
 📺央视频道,#genre#
 CCTV1 HD,http://144.255.44.101:7788/rtp/239.21.1.120:5002
 CCTV2 HD,http://144.255.44.101:7788/rtp/239.21.1.151:5002
