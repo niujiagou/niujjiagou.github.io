@@ -50,6 +50,8 @@ CCTV-4K,http://144.255.44.101:7788/rtp/239.21.2.152:5002
 河南卫视4k,http://123.149.236.96:9003/hls/111/index.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+湖南电影高清,http://58.46.202.50:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南娱乐高清,http://58.46.202.50:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,https://migu.188766.xyz/?migutoken=29b551223ea46848eb33d3a0868fd13f&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
 CHC动作电影,https://migu.188766.xyz/?migutoken=e6cb4a3a83e5125df3f33e77dfa527a5&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 CHC影迷电影,https://migu.188766.xyz/?migutoken=a6966ca9dce66ff0dce5679134e79e5e&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
